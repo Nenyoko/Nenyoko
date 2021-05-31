@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nenyoko, a teenager who loves technology and programming. I have started to learn some low-level languages like C++ and C, and I have a small base for WEB development. I hope to evolve and learn more and more and do more cool stuff. Oh and I love Open Source! :3
+
 <!--
 **Nenyoko/Nenyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
