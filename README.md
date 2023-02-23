@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Nenyoko, a teenager who loves technology and programming. I have started to learn some low-level languages like C++ and C, and I have a small base for WEB development. I hope to evolve and learn more and more and do more cool stuff. Oh and I love Open Source! :3
+My nickname is **Nenyoko Nero** and welcome to my GitHub profile. I'm a high school student in France and I'm impressed by computer science and everything it can do. My favourite language is C. I'm still learning a lot and hope one day to contribute to the open-source community.
+If you want to contact me, feel free to join [my Discord server](https://discord.gg/U3RFgUQ6bD)! ✨
 
 <!--
 **Nenyoko/Nenyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
