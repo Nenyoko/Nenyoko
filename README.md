@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 My nickname is **Nenyoko Nero** and welcome to my GitHub profile. I'm a high school student in France and I'm impressed by computer science and everything it can do. My favourite language is C. I'm still learning a lot and hope one day to contribute to the open-source community.
-If you want to contact me, feel free to join [my Discord server](https://discord.gg/U3RFgUQ6bD)! ✨
-
 <!--
 **Nenyoko/Nenyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
